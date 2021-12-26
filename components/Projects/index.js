@@ -692,7 +692,7 @@ export default () => {
               <i className="bx bx-arch"></i>
             </div>
             <h4>
-              <a href="https://www.freelists.org/list/pindorama">Sub-projetos</a>
+              <a href="https://copacabana.pindorama.dob.jp/">Copacabana</a>
             </h4>
             <p>
               Acesse nossas maillists na FreeLists.org. Contribua, faça parte!

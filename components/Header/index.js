@@ -14,7 +14,7 @@ export default () => {
                                 <li><Link href="/"><a>Home</a></Link></li>
                                 <li><a href="#hotlinks">Hotlinks</a></li>
                                 <li><a href="#about">Sobre</a></li>
-                                <li><Link href="ftp"><a>FTP</a></Link></li>
+                                <li><Link href="https://get.pindorama.dob.jp/"><a>Downloads</a></Link></li>
                             </ul>
                         </nav>
                     </div>
