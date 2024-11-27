@@ -1,0 +1,73 @@
+@font-face {
+    font-family: lucida_granderegular;
+    src: url(/assets/fonts/lucida_grande-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family: lucida_sans_unicoderegular;
+    src: url(/assets/fonts/lucida_sans_unicode-webfont.woff) format('woff');
+}
+
+@font-face {
+    font-family: courierprime-regular;
+    src: url(/assets/fonts/courierprime-regular-webfont.woff) format('woff');
+}
+
+header, footer {
+	background-color: #1d3264;
+}
+
+header {
+	height: 93px;
+}
+
+footer {
+	position: bottom;
+	height: 5%;
+}
+
+body {
+	background-color: #162b55;
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+		Helvetica, Arial, lucida_sans_unicoderegular, coolveticaregular;
+}
+
+code, pre, tt {
+    font-family: "Courier Prime", courierprime-regular, "Courier New", monospace;
+}
+
+ul {
+	list-style: disc;
+}
+
+li::marker {
+	color: #ebd758;
+}
+
+.logo {
+	float: left;
+	margin: 0px 5px 0 0;
+	height: 93px;
+	width: 200px;
+}
+
+.lemma {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+a, .title-marker {
+    color: #ebd758;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.main-text {
+	font-size: 20px;
+	margin: 5px 0 30px 20px;
+}
+
+.copyright {
+	margin: 0px 0 0 5px;
+}

@@ -1,0 +1,6 @@
+host: pindorama.net.br 
+
+modules:
+  - path: /libcmon
+    vcs: git
+    repo-url: https://github.com/Projeto-Pindorama/libcmon 
