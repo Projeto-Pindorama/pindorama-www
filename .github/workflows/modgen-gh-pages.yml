@@ -39,7 +39,7 @@ jobs:
           modgen
           -config 'modgen.yaml'
           -index-tmpl './index.html.tmpl'
-          -target "_site/"
+          -target "_site/";
           cp -rv './assets/' './_site/'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
