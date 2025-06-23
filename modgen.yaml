@@ -4,3 +4,8 @@ modules:
   - path: /libcmon
     vcs: git
     repo-url: https://github.com/Projeto-Pindorama/libcmon 
+
+modules:
+  - path: /getopt
+    vcs: git
+    repo-url: https://github.com/Projeto-Pindorama/gotopt
